@@ -1,0 +1,35 @@
+*{
+
+}
+
+section{
+    border:1px solid black;
+    width:1300;
+    height: 300px;
+    
+}
+article{
+    margin:20px;
+    border:1px solid black;
+    float:left;
+    width:200px;
+    height: 250px;
+}
+img{
+    border:1px solid black;
+}
+.buttonPlus{
+    width: 25px;
+     height: 25px;
+    margin: 10px;
+}
+.buttonMinus{
+    width: 25px;
+    height: 25px;
+    margin: 10px;
+}
+.titleImage{
+    width: 180px;
+    margin: 10px;
+    height: 180px;
+}
